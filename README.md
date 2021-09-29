@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Hi there, I'm YeongJu Kwak :wave:</h3>
   <a href="mailto:yeongju.kwak@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yeongju.kwak@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://icekwak.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <a href="https://icekwak.github.io" target="_blank"><img src="https://img.shields.io/badge/Portpolio-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </div>
 
 <div align="center">
@@ -13,8 +13,8 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-  <!-- <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> -->
+  <!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> -->
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-0090CE?style=flat-square" /></a>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/>
