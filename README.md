@@ -2,6 +2,7 @@
   <h3>Hi there, I'm YeongJu Kwak :wave:</h3>
   <a href="mailto:yeongju.kwak@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yeongju.kwak@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://icekwak.github.io" target="_blank"><img src="https://img.shields.io/badge/Portpolio-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <a href="https://icekwak.github.io" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </div>
 
 <div align="center">
