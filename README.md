@@ -17,7 +17,7 @@
   
 ---
 
-<img align="left" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icekwak&langs_count=4&hide=c%23,jupyter%20notebook,css,html,scss" />
+<img align="left" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icekwak&langs_count=4&hide=c%23,jupyter%20notebook,css,html,scss,javascript,hlsl,ruby,shaderlab,R" />
 
 <div align="left">
   
