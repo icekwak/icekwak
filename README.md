@@ -6,11 +6,23 @@ Sub : SpringBoot, Java, MyBatis, MariaDB, IntelliJ, Docker, Bitbucket
 Tool : Confluence, JIRA, Git, Sourcetree, Postman
 -->
 
+# Skiils
+
+## Main
+<div>
+  <img src="https://img.shields.io/badge/Django / DRF-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+</div>
+
+## Sub
+
+## Tools
+
 # Skills & Tools
 
 ## Main
-<img src="https://img.shields.io/badge/Django / DRF-092E20?style=flat-square&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
